@@ -41,7 +41,7 @@ This project involves creating a system using the CrewAI framework to analyze bl
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/blood-sample-analysis.git
+   git clone https://github.com/AbhinavKRN/blood-sample-analysis.git
    cd blood-sample-analysis
    ```
 
